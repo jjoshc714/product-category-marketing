@@ -1,6 +1,6 @@
 ### Purpose 
 
-- Clean and manipulate online retail sales data to fit over 4,000 unique products into categories
+- Clean and manipulate online retail sales data to fit over 4,000 unique, ambiguously descriptive products into categories using text vectorization and classification techniques
 - Create dashboard of category performance considering revenue and time for marketability
 
 ### Initial Dataset Preview 
